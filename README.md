@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 
@@ -43,3 +44,7 @@ Para avanzar debes seguir el material teórico junto con los videos de este curs
 Cualquier duda, nos puedes escribir a admisiones@soyhenry.com
 
 </br>
+=======
+# Henry
+Aqui es donde voy a realizar el curso de ciencia de datos.
+>>>>>>> 85772355359c2bca0bc9c17208c2de11f6a7a42b
